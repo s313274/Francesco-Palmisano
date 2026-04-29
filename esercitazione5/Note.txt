@@ -1,0 +1,4 @@
+Misurando i tempi di esecuzione in modo Debug degli algoritmi di ordinamento su vettori di dimensione 5,10,15,...,100 elementi, si osserva che fino alla dimensione 50, l'algoritmo Quick è in media più lento degli algoritmi quadratici. L'algoritmo ibrido quick/insertion ovvia al problema. 
+Gli algoritmi Quick e Ibrido risultano più veloci del sort standard, mentre l'algoritmo Quick risulta più lento
+
+Utilizzo IA: l'intelligenza artificiale generativa è stata utilizzata per chiarire alcuni dubbi logici e di forma (in particolare sulla sintassi corretta da utilizzare in alcuni punti del codice). Nel  file "timer_sort.cpp" per la formattazione in tabella degli output. Il resto del codice è interamente scritto a mano.
